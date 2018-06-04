@@ -1,0 +1,10 @@
+C:\Users\Julio\source\repos\Bodegas\Bodegas\obj\Debug\Bodegas.Properties.Resources.resources
+C:\Users\Julio\source\repos\Bodegas\Bodegas\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Julio\source\repos\Bodegas\Bodegas\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Julio\source\repos\Bodegas\Bodegas\bin\Debug\Bodegas.exe.config
+C:\Users\Julio\source\repos\Bodegas\Bodegas\bin\Debug\Bodegas.exe
+C:\Users\Julio\source\repos\Bodegas\Bodegas\bin\Debug\Bodegas.pdb
+C:\Users\Julio\source\repos\Bodegas\Bodegas\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+C:\Users\Julio\source\repos\Bodegas\Bodegas\obj\Debug\Bodegas.exe
+C:\Users\Julio\source\repos\Bodegas\Bodegas\obj\Debug\Bodegas.pdb
+C:\Users\Julio\source\repos\Bodegas\Bodegas\obj\Debug\Bodegas.frmLogin.resources
